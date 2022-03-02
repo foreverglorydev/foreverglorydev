@@ -40,6 +40,10 @@ I really like what I do and have got high passion of my work all the time
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atosinu&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
+<div>
+    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
+</div>
+
 > GitHub Activity Graph
 
 <a href="https://github.com/foreverglorydev/foreverglorydev"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=foreverglorydev&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
