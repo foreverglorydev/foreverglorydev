@@ -38,14 +38,7 @@ I really like what I do and have got high passion of my work all the time
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=foreverglorydev&sshow_icons=true&theme=radical&count_private=true">
 </p>
 
-<details align="center">
-  <summary>More about me</summary>
-  
-It was a joke, there is no more info here  `¯\_(ツ)_/¯`
+> GitHub Activity Graph
 
-If you want to know more about me just send me a mail to happyyada.glory@gmail.com and I would gladly answer your questions or try to help you out with whatever you need! 
-
-<sub>In fact, if you think about it, this above was actually more information about me :)<sub> 
-
-</details>
+<a href="https://github.com/foreverglorydev/foreverglorydev"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=foreverglorydev&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
   
