@@ -41,7 +41,7 @@ I really like what I do and have got high passion of my work all the time
 </p>
 
 <div>
-    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/foreverglorydev/foreverglorydev/output/github-contribution-grid-snake.svg" />
 </div>
 
 > GitHub Activity Graph
