@@ -33,9 +33,11 @@ I really like what I do and have got high passion of my work all the time
 ![](https://minionicious.files.wordpress.com/2016/08/dave2.png)
 
 
-<p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foreverglorydev&exclude_repo=foreverglorydev.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=foreverglorydev&sshow_icons=true&theme=radical&count_private=true">
+> GitHub Profile Status
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=atosinu&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atosinu&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
 
 > GitHub Activity Graph
