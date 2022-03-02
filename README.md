@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=foreverglorydev&color=yellow)
 
+
+<p align="center">
+  <a href="https://github.com/starbinna"><img src="./head_line.svg"></a>
+</p>
+
+
+
 You can contact me via happyyada.glory@gmail.com
 <h4 align="center">
 I am an engineer doing my best for the work in my field. 
