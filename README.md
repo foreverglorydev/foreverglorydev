@@ -39,6 +39,8 @@ I really like what I do and have got high passion of my work all the time
     <img src="https://github-readme-stats.vercel.app/api?username=atosinu&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atosinu&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
+<br/>
+<br/>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -74,6 +76,8 @@ I really like what I do and have got high passion of my work all the time
 <code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/erp.png"></code>
 <code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/crm.png"></code>
 
+<br/>
+<br/>
 > GitHub Activity Graph
 
 <a href="https://github.com/foreverglorydev/foreverglorydev"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?username=foreverglorydev&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
