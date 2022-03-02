@@ -34,8 +34,7 @@ I really like what I do and have got high passion of my work all the time
 <br />
 </h4>
 
-<i><h2 align="center">Just one small positive thought in the morning can change your whole day.</h2></i>
-<h4 align="center">F╰(*°▽°*)╯rever Lᵒᵛᵉᵧₒᵤ♡</h4>
+<h4 align="center">Always  Lᵒᵛᵉᵧₒᵤ♡ Forever</h4>
 
 ![](https://minionicious.files.wordpress.com/2016/08/dave2.png)
 
