@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/starbinna"><img src="./head_line.svg"></a>
+  <a href="https://github.com/starbinna"><img src="https://github.com/foreverglorydev/foreverglorydev/blob/main/haed_line.svg"></a>
 </p>
 
 
