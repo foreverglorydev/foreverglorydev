@@ -37,7 +37,7 @@ I really like what I do and have got high passion of my work all the time
 
 <h4 align="center"><i>Always</i>  Lᵒᵛᵉᵧₒᵤ♡ <i>Forever</i></h4>
 
-![](https://minionicious.files.wordpress.com/2016/08/dave2.png)
+![](https://github.com/foreverglorydev/foreverglorydev/blob/main/profile.png)
 
 
 > GitHub Profile Status
