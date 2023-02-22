@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-You can contact me via happyyada.glory@gmail.com  or directly https://t.me/foreverglorydev
+You can contact me via happyyada.glory@gmail.com
 
 <h4 align="center">
 I am an engineer doing my best for the work in my field. 
